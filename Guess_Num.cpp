@@ -1,14 +1,11 @@
 /*
-***Welcome To Guess The Perfect Number***
+***Welcome To Guess The Perfect Number*** --> About Game
 
 --> In this game there will be a random number generated which will be less than
 or equal to 25.
 
   If user gives input of a number which is not equal to random number then the program will run/take
   input until & unless it is not equal to the random number.
-
-  Author --> Rayzon/Milo_Prysco/PogZumi (Me only just 3 different names)
-  Rayzon/Milo_Prysco/PogZumi == RMP
 
 */
 
@@ -17,6 +14,7 @@ or equal to 25.
 #include <stdlib.h>
 using namespace std;
 
+// Driver Code
 int main()
 {
 
